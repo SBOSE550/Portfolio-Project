@@ -1,6 +1,6 @@
 # 🗺 Soumyadeep's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my **data portfolio!** Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
 - [SQL](#sql)
@@ -21,12 +21,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🛵 [Food Delivery Profitability Analysis](https://github.com/SBOSE550/food-delivery-cost-and-profitability-analysis) | Data Wrangling, Cost Analysis, Revenue Analysis & Profit Analysis |The Food Delivery Profitability Analysis project aims to uncover insights and strategies for enhancing profitability in the food delivery industry. By analyzing key features such as order value, delivery fee, discounts, and commissions, the project identifies trends, cost contributors, and actionable recommendations to improve profit margins. | pandas, numpy, matplotlib, seaborn, random, relativedelta, warnings  | 
-| 📺 [EDA of Members of Parliament India 2023 ](https://www.kaggle.com/code/soumyadeepbose550/eda-of-elections-data-2023) | EDA | Analyzing the data belong to member of parliament  | pandas, matplotlib |   
-| ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
-| 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb) | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | pandas, matplotlib |   
-| 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
-| 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
-| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+| 👨‍⚖️ [EDA of Members of Parliament India 2023 ](https://www.kaggle.com/code/soumyadeepbose550/eda-of-elections-data-2023) | EDA | The analysis covers a broad spectrum of aspects, including criminal records, financial standing, educational qualifications, and gender diversity among sitting MPs. It shows the distribution of MPs across political parties, the prevalence of criminal backgrounds among parliamentarians, the wealth disparities, educational qualifications, and the representation of gender within the Indian Parliament. | pandas, numpy, matplotlib,seaborn |   
+| 📱 [Web Scraping Flipkart mobile data](https://github.com/SBOSE550/web-scraping-with-pyhton/blob/main/%20Web%20Scraping%20Flipkart%20mobile%20data%20.ipynb) | Web Scraping | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, BeautifulSoup, requests|   
+
 
 ***
 
