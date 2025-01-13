@@ -6,6 +6,7 @@ Welcome to my **data portfolio!** Here, I document a summary of my projects in t
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Data Collection](#data_collection)
 
 
 # SQL
@@ -36,4 +37,12 @@ Welcome to my **data portfolio!** Here, I document a summary of my projects in t
 | 📋 [Online-Sales-Dashboard](https://github.com/SBOSE550/Online-Sales-Dashboard) | The Online Sales Dashboard project provides a comprehensive visualization of sales performance across various metrics, helping businesses to track key indicators such as revenue, sales by category, and customer demographics. By analyzing real-time data, the dashboard offers actionable insights to optimize sales strategies and drive business growth. | [Dashboard](https://public.tableau.com/views/Onlinesalesdashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) |
 
 ***
+# Data_Collection
+
+| Project Link | Project Description | Blog  Link |
+|---|---|---|
+| 📋 [Customer Visit Data Collection Form](https://github.com/SBOSE550/Customer-Visit-Data-Collection-Form) | This project involves a dynamic web form designed for real-time data collection during customer visits. It eliminates the challenges associated with manual monthly data submissions, such as duplicate entries, missing critical fields, and inconsistent data submissions. By allowing field agents to input data on the spot, this form ensures better data integrity and helps the sales and marketing teams track customer status more effectively. The form is built using Google Apps Script, HTML, and JavaScript, and it integrates seamlessly with Google Sheets for real-time data storage and management. | [Blog](https://medium.com/@soumyadeepbose550/building-a-dynamic-data-collection-form-using-google-apps-script-643e297d0d0c) |
+
+***
+
 
