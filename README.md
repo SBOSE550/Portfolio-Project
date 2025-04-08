@@ -7,6 +7,7 @@ Welcome to my **data portfolio!** Here, I document a summary of my projects in t
 - [Python](#python)
 - [Tableau](#tableau)
 - [Data Collection](#data_collection)
+- [Ai Agent/Ai Workflow](#AI_Agent/AI_Workflow)
 
 
 # SQL
@@ -42,6 +43,13 @@ Welcome to my **data portfolio!** Here, I document a summary of my projects in t
 | Project Link | Project Description | Coding Language |
 |---|---|---|
 | 📋 [Customer Visit Data Collection Form](https://github.com/SBOSE550/Customer-Visit-Data-Collection-Form) | This project involves a dynamic web form designed for real-time data collection during customer visits. It eliminates the challenges associated with manual monthly data submissions, such as duplicate entries, missing critical fields, and inconsistent data submissions. By allowing field agents to input data on the spot, this form ensures better data integrity and helps the sales and marketing teams track customer status more effectively. The form is built using Google Apps Script, HTML, and JavaScript, and it integrates seamlessly with Google Sheets for real-time data storage and management. | Google App Script, Java Script, HTML |
+
+***
+# AI Agent/AI Workflow
+
+| Project Link | Project Description | Coding Language |
+|---|---|---|
+| 📋 [AI Web Scraper](https://github.com/SBOSE550/ai-website-scraper-Powered-by-Google_gemini) | This project is a web scraper powered by AI. It allows users to enter a website URL and automatically retrieve and clean the information from that website. It then uses an AI language model to extract key insights from the scraped content. This project is designed to help users quickly gather important data from websites without manually copying information. | python, Gemenai API, google ai studio, streamlit, github|
 
 ***
 
