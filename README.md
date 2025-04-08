@@ -6,8 +6,8 @@ Welcome to my **data portfolio!** Here, I document a summary of my projects in t
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Data Collection](#data_collection)
-- [Ai Agent/Ai Workflow](#AI_Agent/AI_Workflow)
+- [Data Collection](#data-collection)
+- [Ai Agent/Ai Workflow](#ai-agentai-workflow)
 
 
 # SQL
